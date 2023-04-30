@@ -1,2 +1,0 @@
-This my first git text file. Anyway!
-feature-a
